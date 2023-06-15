@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">materi 1</string>
+    <string name="article_title">Ini lah Berita</string>
+    <string name="article_subtitle">Peneliti Menemukan Metode Baru untuk Mencegah Perubahan Iklim</string>
+    <string name="article_text">
+        <b>Jakarta, 13 Juni 2023</b> - Dalam perkembangan yang menarik, sebuah tim peneliti internasional telah berhasil menemukan metode baru yang menjanjikan untuk mencegah perubahan iklim yang semakin mengkhawatirkan. Penemuan ini dapat menjadi terobosan penting dalam upaya global untuk melawan dampak negatif perubahan iklim.
+        \n\n
+        Para peneliti dari berbagai lembaga penelitian di seluruh dunia telah berkolaborasi untuk mengembangkan teknologi inovatif yang berfokus pada penyerapan karbon dioksida (CO2) dari atmosfer. Metode baru ini menggunakan material yang disebut "karbon berpori" yang memiliki kemampuan untuk menyerap CO2 dalam jumlah besar. Material tersebut dapat dibuat dari bahan alami yang melimpah seperti limbah pertanian, misalnya sekam padi atau batang jagung.
+        \n\n
+        Proses penyerapan CO2 menggunakan karbon berpori ini telah diuji coba dengan sukses dalam skala laboratorium. Tim peneliti saat ini sedang dalam tahap pengembangan untuk menguji teknologi ini dalam skala yang lebih besar di lingkungan nyata. Jika hasil pengujian terbukti efektif, metode ini dapat menjadi solusi yang berpotensi untuk mengurangi konsentrasi CO2 di atmosfer dan membantu mengatasi perubahan iklim.
+        \n\n
+        Dalam sebuah wawancara, Dr. Amanda Lee, pemimpin tim peneliti, menyatakan, "Penemuan ini memiliki potensi luar biasa untuk mengubah paradigma dalam upaya memerangi perubahan iklim. Kami berharap teknologi karbon berpori ini dapat digunakan secara luas di masa depan untuk membantu mengurangi emisi gas rumah kaca dan menghambat laju pemanasan global."
+        \n\n
+    </string>
+</resources>
